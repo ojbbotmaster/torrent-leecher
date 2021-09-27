@@ -1,5 +1,5 @@
 # Torrent Leecher
-### Moded By <a href='t.me/FilmSeries_vf</a>
+### Moded By ojbbotmaster
 
 - This Bot allows you to leech (re-upload) contents from internet including torrent to telegram.
 
